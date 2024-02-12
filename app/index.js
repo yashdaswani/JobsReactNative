@@ -24,7 +24,7 @@ const Home = () => {
             <ScreenHeaderBtn iconUrl={icons.menu} dimension="60%" />
           ),
           headerRight: () => <ScreenHeaderBtn iconUrl={user} dimension="80%" />,
-          headerTitle: "Jobs",
+          headerTitle: "Jobify",
         }}
       />
 
